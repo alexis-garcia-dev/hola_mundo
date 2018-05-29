@@ -20,6 +20,7 @@ public class Hola_Mundo {
       String mensaje= "Hola Mundo";
       JOptionPane.showMessageDialog(null, mensaje);
       JOptionPane.showMessageDialog(null, "asaber");
+      JOptionPane.showMessageDialog(null, "asaber");
     }
     
 }
